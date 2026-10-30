@@ -1,0 +1,6 @@
+{
+  "name": "SpeakUp IVR Companion",
+  "description": "Multilingual voice helpline prototype for migrant factory workers in India with simulated IVR phone, supervisor queue, resolution leaderboard, and grievance cell heatmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
